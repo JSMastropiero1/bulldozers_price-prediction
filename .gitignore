@@ -1,0 +1,14 @@
+# Ignore environmet
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Large folder file
+bluebook-for-bulldozers/
+
+# ignore zip file
+*.zip
